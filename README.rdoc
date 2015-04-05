@@ -5,6 +5,8 @@ application up and running.
 
 Things you may want to cover:
 
+* State of project - final, awaiting peer review etc
+
 * Ruby version
 
 * System dependencies
