@@ -7,6 +7,8 @@ Things you may want to cover:
 
 * State of project - final, awaiting peer review etc
 
+* Deadlines / target dates
+
 * Ruby version
 
 * System dependencies
